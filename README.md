@@ -1,1 +1,1 @@
-Desenvolvi uma plataforma e-commerce para uma confeitaria, utilizando Java no back-end para criar uma API personalizada que gerencia produtos, pedidos e usuários. No front-end, utilizei HTML e CSS para construir uma interface visualmente atraente, com destaque para a exibição de produtos. Um projeto completo que integra desenvolvimento full-stack e criação de APIs. 
+
