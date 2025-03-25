@@ -1,1 +1,1 @@
-
+Projeto feito em grupo no curso Java full stack - SENAC. No qual fiquei responsável pelo back-end e homepage/login no front-end. Irei refazer a parte front-end toda do projeto no meu novo repositório "https://github.com/ferarruda/Projeto_Doceria".
